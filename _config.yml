@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: LLMs for Scientific Discovery Workshop # the website title (if blank, full name will be used instead)
+title: AI Scientist Workshop # the website title (if blank, full name will be used instead)
 first_name: abc
 middle_name: b
 last_name: c

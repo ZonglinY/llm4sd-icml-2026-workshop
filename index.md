@@ -3,11 +3,11 @@ layout: about
 title: Home
 ---
 
-# AI Scientist Workshop  @ ICML 2026
+# AI Scientist Workshop  @ NeurIPS 2026
 ---
-### <font color="#1e90ff">Date:</font> <font color="#333">July 10, 2026</font>
+### <font color="#1e90ff">Date:</font> <font color="#333">Dec 6th - 12th</font>
 ### <font color="#32cd32">Time:</font> 09:00-17:00
-### <font color="#ff6347">Place:</font> COEX Convention & Exhibition Center, Seoul, South Korea
+### <font color="#ff6347">Place:</font> Sydney, Australia
 ---
 
 ## Introduction

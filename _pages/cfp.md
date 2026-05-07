@@ -9,51 +9,78 @@ nav_order: 2
 
 # Call for Papers
 
-The Safe Generative AI Workshop invites submissions addressing the critical challenges and opportunities in developing safe and responsible generative AI systems. As generative models continue to revolutionize both academia and industry, it is crucial to address the potential risks and ethical implications of these powerful technologies.
+The **AI Scientist Workshop @ NeurIPS 2026** invites submissions advancing 
+the methodologies that transform Large Language Models and agentic AI 
+systems into rigorous scientific reasoners. We focus on the **training 
+strategies and inference-time reasoning** required for autonomous 
+discovery across the full scientific lifecycle—from inspiration retrieval 
+and hypothesis generation, to closed-loop experimental refinement and 
+self-correction.
 
 ## Topics of Interest
 
-We welcome submissions on a wide range of topics related to safe generative AI, including but not limited to:
+We welcome submissions on a broad range of topics, including but not 
+limited to:
 
-1. Generation of harmful or biased content.
-2. Vulnerability to adversarial attacks.
-3. Privacy and security risks.
-4. Bias and fairness issues in generated content.
-5. Ethical implications of deploying generative AI.
-6. Limited robustness in out-of-distribution contexts.
-7. Overconfidence in the reliability of generated content.
-8. Robustness and reliability of generative models.
-9. Safe exploration in generative AI (e.g., for scientific discovery)
-10. Evaluation for safe generative AI
+1. **Inference-Time Reasoning & Search**: Test-time compute techniques 
+   (e.g., Tree of Thoughts, Monte Carlo Tree Search) for multi-step 
+   logical planning and complex experimental design.
+2. **Training, Data & Alignment for Science**: Construction of scientific 
+   reasoning corpora and synthetic data for low-resource scientific 
+   domains (e.g., theorem proving, optimization, experimental design); 
+   Supervised Fine-Tuning (SFT), Reinforcement Learning with verifiable 
+   rewards (RLVR), and reward models trained from experimental feedback. 
+   Methods that align model outputs with physical constraints, 
+   mathematical logic, and iterative experimental signals.
+3. **Agentic Frameworks & Tool Use**: Architectures supporting autonomous 
+   tool usage (simulators, code interpreters, lab equipment) and memory 
+   mechanisms for long-horizon scientific workflows.
+4. **Hypothesis Generation & Ranking**: Algorithms for generating novel 
+   scientific hypotheses and ranking them based on plausibility, novelty, 
+   and verifiability.
+5. **Benchmarks & Evaluation**: Moving beyond rote memorization to 
+   evaluate true reasoning capabilities in out-of-distribution scientific 
+   discovery tasks.
 
 ## Submission Guidelines
 
-- Paper length: 4-8 pages (excluding references and appendices)
-- Format: Use the [NeurIPS](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip) or [ICLR](https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip) LaTeX template
-- Anonymization: Submissions should be anonymized for double-blind review
-- Dual-submission policy (non-archival): Accepted papers will not be archived, welcoming ongoing and unpublished work and allowing for future submission to other conferences. We welcome submissions that are currently under review at other venues, including ICLR 2025. However, we cannot consider work that has been previously published or accepted for publication at any venue. This policy on dual submissions remains in effect throughout the entire reviewing process. 
+- **Paper length**: 4–8 pages (excluding references and appendices)
+- **Format**: Use the [NeurIPS 2026 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2026/Styles.zip)
+- **Anonymization**: Submissions must be anonymized for double-blind review
+- **Dual-submission policy (non-archival)**: Accepted papers will not be 
+  archived in formal proceedings, welcoming ongoing and unpublished work 
+  and allowing for future submission to other venues. We welcome 
+  submissions currently under review at other venues, including ICLR 2027. 
+  However, we cannot consider work that has been previously published or 
+  accepted for publication at any peer-reviewed venue. This policy on 
+  dual submissions remains in effect throughout the entire reviewing 
+  process.
 
 ## Important Dates (Tentative)
 
-All deadlines are 23:59 AoE
+All deadlines are 23:59 AoE (Anywhere on Earth)
 
-- Submission deadline: **October 2**, 2024
-- Author notification: October 9, 2024
-- Camera ready deadline: TBD
-- Workshop date: December 14 or 15, 2024
+- Submission deadline: **August 22, 2026**
+- Author notification: **September 22, 2026**
+- Camera-ready deadline: **November 13, 2026**
+- Workshop date: **December 11 or 12, 2026** (specific day TBD by NeurIPS)
 
 ## Submission Process
 
-All submissions should be made through the workshop's [OpenReview portal](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SafeGenAi).
+All submissions should be made through the workshop's 
+[OpenReview portal](#) *(link to be announced)*.
 
 ## Presentation Format
 
-Accepted papers will be presented as posters during the workshop. Selected papers may also be invited for spotlight talks.
+Accepted papers will be presented as posters during the workshop. 
+Selected papers will be invited for oral spotlight talks.
 
-As part of our commitment to recognizing outstanding research, we will establish 1-3 best paper award(s).
+As part of our commitment to recognizing outstanding research, we will 
+present **1–3 Best Paper Award(s)** to the most impactful contributions.
 
 ## Questions?
 
-For any inquiries, please contact: [safe-generative-ai-workshop@googlegroups.com](mailto:safe-generative-ai-workshop@googlegroups.com).
+For inquiries, please contact: 
+[ai-scientist-workshop@googlegroups.com](mailto:ai-scientist-workshop@googlegroups.com).
 
 
